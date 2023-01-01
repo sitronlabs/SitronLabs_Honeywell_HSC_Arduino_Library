@@ -1,0 +1,15 @@
+{
+    "name": "Sitron_Labs_Honeywell_HSC_Arduino_Library",
+    "version": "0.1.0",
+    "description": "Arduino library for the Honeywell TruStability HSC high accuracy compensated digital pressure sensors.",
+    "keywords": "sitron labs,sitron,labs,arduino,library,i2c,spi,honeywell,hsc,trustability,digital,pressure,sensors,temperature,compensated",
+    "repository": {
+        "type": "git",
+        "url": "https:\/\/github.com\/sitronlabs\/SitronLabs_Honeywell_HSC_Arduino_Library.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*",
+    "build": {
+        "includeDir": "src"
+    }
+}

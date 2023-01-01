@@ -1,0 +1,4 @@
+hsc_i2c	KEYWORD1
+hsc_spi	KEYWORD1
+setup	KEYWORD2
+data_get	KEYWORD2
